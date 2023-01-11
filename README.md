@@ -1,23 +1,25 @@
-# Data Structures
+# Data Structures <!-- omit in toc -->
 
 Data structures for future reference. The list of data structures was taken from [Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures).
 
-- [Data Structures](#data-structures)
-  - [Languages Supported](#languages-supported)
-  - [Data Structures List](#data-structures-list)
-    - [Arrays](#arrays)
-    - [Lists](#lists)
-    - [Trees](#trees)
-      - [Binary trees](#binary-trees)
-      - [B-trees](#b-trees)
-      - [Heaps](#heaps)
-      - [Bit-slice trees](#bit-slice-trees)
-      - [Multi-way trees](#multi-way-trees)
-      - [Space-partitioning trees](#space-partitioning-trees)
-      - [Application-specific trees](#application-specific-trees)
-    - [Hash-based structures](#hash-based-structures)
-    - [Graphs](#graphs)
-    - [Other](#other)
+## Table of Contents <!-- omit in toc -->
+
+- [Languages Supported](#languages-supported)
+- [Data Structures List](#data-structures-list)
+  - [Arrays](#arrays)
+  - [Lists](#lists)
+  - [Trees](#trees)
+    - [Binary trees](#binary-trees)
+    - [B-trees](#b-trees)
+    - [Heaps](#heaps)
+    - [Bit-slice trees](#bit-slice-trees)
+    - [Multi-way trees](#multi-way-trees)
+    - [Space-partitioning trees](#space-partitioning-trees)
+    - [Application-specific trees](#application-specific-trees)
+  - [Hash-based structures](#hash-based-structures)
+  - [Graphs](#graphs)
+  - [Other](#other)
+- [How to Contribute?](#how-to-contribute)
 
 ## Languages Supported
 
@@ -256,3 +258,7 @@ Data structures for future reference. The list of data structures was taken from
 - Routing table
 - Symbol table
 - Piece table
+
+## How to Contribute?
+
+Read our [Code of Conduct](CODE_OF_CONDUCT.md) and refer to [this](CONTRIBUTING.md).
